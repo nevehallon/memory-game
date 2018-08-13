@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/build",
+  "homepage": "https://nevehallon.github.io/memory-game",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
